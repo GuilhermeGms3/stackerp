@@ -8,3 +8,7 @@ Sistema ERP StackErp.</h2>
         <p>Powerful, Intuitive and Open-Source ERP</p>
     </div>
 
+## Deploy
+
+Os arquivos-base para build de imagem própria e deploy no Portainer estão em [deploy/README.md](deploy/README.md).
+
